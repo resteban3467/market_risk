@@ -1,0 +1,16 @@
+sqlalchemy 
+psycopg2-binary 
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+shap
+jupyter
+optuna
+scikit-learn-intelex
+yfinance
+dotenv
+fredapi
